@@ -26,4 +26,4 @@ yarn-error.log*
 .cache
 .idea/
 hs_*.log
-.env
+#.env
